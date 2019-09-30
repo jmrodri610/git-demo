@@ -39,3 +39,17 @@ git merge feature/style
 git checkout 39bb79717a8433bda185986f91605a765c2edd71
 
 git checkout develop
+
+git remote add origin https://github.com/jmrodri610/git-demo.git
+
+git config --list
+
+git checkout master
+
+git push -u origin master
+
+git checkout develop
+
+git push -u origin develop
+
+git clone https://github.com/jmrodri610/git-demo
