@@ -23,3 +23,7 @@ git commit
 git log
 
 git show --pretty="" --name-only HEAD
+
+git diff
+
+git show b5818ee76b10fbd3dfca7a8dc250e5489c74b09a
