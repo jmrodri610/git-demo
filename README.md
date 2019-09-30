@@ -31,3 +31,5 @@ git show b5818ee76b10fbd3dfca7a8dc250e5489c74b09a
 git branch develop
 
 git checkout develop
+
+git branch
